@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 import datetime as dt
 import numpy as np
 import pandas as pd
@@ -140,3 +141,6 @@ def trip2(start,end):
 
 if __name__ == "__main__":
     app.run(debug=True)
+=======
+
+>>>>>>> ad87f8875a128b80efb8bb1025ab59eac1a36035
